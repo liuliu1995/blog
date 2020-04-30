@@ -1,7 +1,5 @@
 ## 刘流的博客
 作为一个95年的前端码农，我的个人博客主要记录一些前端相关的技术知识。因为自17年毕业以来，对前端的理解和掌握还不够深，有些技术会借鉴一些大佬的总结，之后还会放上工作中遇到的一些问题和解决方法。
-## 进度
-javascript部分完善中。。。
 ### javascript部分
 1.[javascript - 数据类型](https://github.com/liuliu1995/blog/issues/1)<br>
 2.[javascript - string方法](https://github.com/liuliu1995/blog/issues/2)<br>
