@@ -1,5 +1,5 @@
 ## 刘流的博客
-作为一个95年的前端码农，我的个人博客主要记录一些前端相关的技术知识。因为自17年毕业以来，对前端的理解和掌握还不够深，有些技术会借鉴一些大佬的总结，之后还会放上工作中遇到的一些问题和解决方法。
+作为一个95年的前端码农，我的个人博客主要记录一些前端相关的技术知识，之后还会放上工作中遇到的一些问题和解决方法。
 ### javascript部分
 1.[javascript - 数据类型](https://github.com/liuliu1995/blog/issues/1)<br>
 2.[javascript - string方法](https://github.com/liuliu1995/blog/issues/2)<br>
@@ -11,6 +11,3 @@
 1.[在vue的style样式中，添加了scoped后，更改elementui组件里的样式无效]<br>
 2.[如何向vue的计算属性中传参]<br>
 ...
-
----
-js部分的博客内容主要借鉴了 [冴羽大佬的博客](https://github.com/mqyqingfeng/Blog)，强推强推！！！
