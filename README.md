@@ -10,6 +10,10 @@ javascript部分完善中。。。
 5.[javascript - 原型和原型链](https://github.com/liuliu1995/blog/issues/5)<br>
 6.javascript - 作用域<br>
 7.javascript - 执行上下文<br>
+### 工作中遇到的问题
+1.[在vue的style样式中，添加了scoped后，修改样式无法更改elementui组件里的样式]<br>
+2.[如何向vue的计算属性中传参]<br>
+...
 
 ---
 js部分的博客内容主要借鉴了 [冴羽大佬的博客](https://github.com/mqyqingfeng/Blog)，强推强推！！！
