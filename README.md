@@ -7,3 +7,4 @@
 4.[javascript - array方法](https://github.com/liuliu1995/blog/issues/4)<br>
 5.[javascript - 原型和原型链](https://github.com/liuliu1995/blog/issues/5)<br>
 6.[javascript - 作用域与执行上下文](https://github.com/liuliu1995/blog/issues/6)<br>
+7.[javascript - promise函数](https://github.com/liuliu1995/blog/issues/7)<br>
