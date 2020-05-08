@@ -10,4 +10,4 @@
 7.[javascript - promise函数](https://github.com/liuliu1995/blog/issues/7)<br>
 8.[javascript - generator函数和async函数](https://github.com/liuliu1995/blog/issues/8)<br>
 ### vue部分
-1.vue样式中的scoped
+1.[vue样式中的scoped](https://github.com/liuliu1995/blog/issues/9)<br>
