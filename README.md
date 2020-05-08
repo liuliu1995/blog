@@ -8,5 +8,6 @@
 5.[javascript - 原型和原型链](https://github.com/liuliu1995/blog/issues/5)<br>
 6.[javascript - 作用域与执行上下文](https://github.com/liuliu1995/blog/issues/6)<br>
 7.[javascript - promise函数](https://github.com/liuliu1995/blog/issues/7)<br>
+8.[javascript - generator函数和async函数](https://github.com/liuliu1995/blog/issues/8)<br>
 ### vue部分
 1.vue样式中的scoped的作用(当添加scoped属性的时候，修改element ui组件样式无效怎么处理)
