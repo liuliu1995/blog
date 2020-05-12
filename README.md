@@ -12,3 +12,5 @@
 ### vue部分
 1.[vue样式中的scoped](https://github.com/liuliu1995/blog/issues/9)<br>
 2.vue中的$nextTick
+### 开发中遇到的问题
+1.根据轮播图片的颜色改变背景渐变色
