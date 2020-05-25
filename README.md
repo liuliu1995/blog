@@ -11,8 +11,8 @@
 8.[javascript - generator函数和async函数](https://github.com/liuliu1995/blog/issues/8)<br>
 ### vue部分
 1.[vue样式中的scoped](https://github.com/liuliu1995/blog/issues/9)<br>
-2.vue中的$nextTick
+2.[vue中的$nextTick](https://github.com/liuliu1995/blog/issues/10)<br>
 ### react部分
 
 ### 开发中遇到的问题
-1.根据轮播图片的颜色改变背景渐变色
+1.[根据轮播图片的颜色改变背景渐变色](https://github.com/liuliu1995/blog/issues/11)<br>
