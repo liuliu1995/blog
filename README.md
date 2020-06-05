@@ -12,6 +12,7 @@
 ### vue部分
 1.[vue样式中的scoped](https://github.com/liuliu1995/blog/issues/9)<br>
 2.[vue中的$nextTick](https://github.com/liuliu1995/blog/issues/10)<br>
+3.[自定义组件的v-model](https://github.com/liuliu1995/blog/issues/12)<br>
 ### react部分
 
 ### 开发中遇到的问题
